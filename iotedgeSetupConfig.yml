@@ -1,0 +1,12 @@
+## global definitions
+azure:
+  SubscriptionID: "c7b2c0ba-6f34-45b8-8764-079581e882ea"
+  ResourceGroup: "Learning"
+  #Azure device provisioning service name
+  DPSName: "LearningDPS"
+  #Azure device provisioning service scope ID
+  DPSScope: "0ne000B2C02"
+
+## output
+device:
+  name: "edge1"
